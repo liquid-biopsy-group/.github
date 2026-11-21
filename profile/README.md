@@ -29,4 +29,3 @@ analysis workflows, and resources accompanying publications.
 
 - [Group website](https://www.genyo.es/en/research/research-groups/liquid-biopsy-and-cancer-interception/)
 - [GENyO](https://www.genyo.es/)
-- Contact: [mjose.serrano@genyo.es](mailto:mjose.serrano@genyo.es)
