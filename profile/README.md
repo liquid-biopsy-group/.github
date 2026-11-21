@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.svg" alt="Liquid Biopsy and Cancer Interception Group, GENyO: cell-free DNA fragments in plasma, one carrying a tumour variant" width="100%">
+</p>
+
 # Liquid Biopsy and Cancer Interception
 
 **GENyO · Granada, Spain**
